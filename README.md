@@ -26,9 +26,11 @@ Social Worker
 <p align="center">
 
 <img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/arduino.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Arduino</span>
+
 <img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/html.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">HTML</span>
 <img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/figma.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Figma</span>
 <img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/css.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">CSS</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/nodejs.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">NodeJs</span>
 </p>
 
 
